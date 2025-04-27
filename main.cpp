@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     }
 
     size_t current_index = 0;
-    const std::string window_name = "Multi-Image Viewer";
+    const std::string window_name = "Image Viewer";
 
     cv::namedWindow(window_name, cv::WINDOW_AUTOSIZE);
 

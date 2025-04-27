@@ -2,7 +2,7 @@
 
 Just a small image viewer made for practicing C++ programming.
 
-<img src="./Screenshot_20250405_130745.png" alt="Screenshot of the image viewer.">
+<img src="./Screenshot from 2025-04-27 22-39-44.png" alt="Screenshot of the image viewer.">
 
 ## Installation
 
